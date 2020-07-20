@@ -1,0 +1,8 @@
+1) atom .
+2)brower-sync start --server --directory --files "**/*"
+3)git status
+4)git add .
+5)git commit -m "From Conta"
+6)git email and name
+7)git status if it ahead by 1 commit
+8)git push
